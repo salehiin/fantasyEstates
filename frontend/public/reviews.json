@@ -1,0 +1,74 @@
+
+[
+    {
+      "propertyId": 101,
+      "reviewerName": "John Doe",
+      "rating": 4.5,
+      "comment": "Great property! The location is perfect, and the amenities are top-notch.",
+      "date": "2023-08-15"
+    },
+    {
+      "propertyId": 102,
+      "reviewerName": "Jane Smith",
+      "rating": 4.0,
+      "comment": "Spacious apartment with a great view. Slightly overpriced but worth it for the location.",
+      "date": "2023-08-12"
+    },
+    {
+      "propertyId": 103,
+      "reviewerName": "Michael Johnson",
+      "rating": 5.0,
+      "comment": "The villa exceeded my expectations. Beautiful architecture and landscaping.",
+      "date": "2023-07-22"
+    },
+    {
+      "propertyId": 104,
+      "reviewerName": "Emily Davis",
+      "rating": 3.5,
+      "comment": "Good location but the maintenance of the property could be improved.",
+      "date": "2023-07-18"
+    },
+    {
+      "propertyId": 105,
+      "reviewerName": "David Wilson",
+      "rating": 4.8,
+      "comment": "Excellent service from the real estate agent. The process was smooth and easy.",
+      "date": "2023-06-30"
+    },
+    {
+      "propertyId": 106,
+      "reviewerName": "Sophia Martinez",
+      "rating": 4.2,
+      "comment": "Lovely house in a peaceful neighborhood. The only issue was a delay in paperwork.",
+      "date": "2023-06-25"
+    },
+    {
+      "propertyId": 107,
+      "reviewerName": "James Brown",
+      "rating": 3.8,
+      "comment": "The apartment was decent, but the parking situation is challenging.",
+      "date": "2023-06-10"
+    },
+    {
+      "propertyId": 108,
+      "reviewerName": "Olivia Jones",
+      "rating": 5.0,
+      "comment": "Perfect experience! The property and service were exceptional.",
+      "date": "2023-05-27"
+    },
+    {
+      "propertyId": 109,
+      "reviewerName": "Lucas Miller",
+      "rating": 4.6,
+      "comment": "Beautiful lakehouse with stunning views. Ideal for vacation homes.",
+      "date": "2023-05-15"
+    },
+    {
+      "propertyId": 110,
+      "reviewerName": "Isabella Garcia",
+      "rating": 3.0,
+      "comment": "The property was okay, but it required some renovations that weren’t disclosed.",
+      "date": "2023-04-20"
+    }
+  ]
+  
